@@ -6,7 +6,7 @@
   "founderName": "Kamol Das",
   "year": "2026",
   "domain": "https://kamol-das.pages.dev/",
-  "logo": "C:\\Users\\Kamol Das\\OneDrive\\Desktop\\RSV_Lab_All_S\\final-app\\lab-site-framework\\lab-site-framework\\presets\\assets\\logo.svg",
+  "logo": "assets/logo.svg",
   "theme": {
     "accent": "#FF8C00",
     "secondary": "#7614DC",
