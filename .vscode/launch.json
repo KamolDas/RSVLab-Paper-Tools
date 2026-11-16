@@ -37,7 +37,7 @@
       }
     ]
   },
-  "github": "rsv8lab",
+  "github": "KamolDas",
   "linkedin": "",
   "twitter": "",
   "youtube": "@RSVLab",
@@ -116,7 +116,7 @@
           "color": "link",
           "title": "GitHub",
           "text": "Code.",
-          "link": "https://github.com/rsv8lab",
+          "link": "https://github.com/KamolDas",
           "cta": "View"
         },
         {
@@ -153,5 +153,8 @@
     "copyright": "© 2026 My Lab. All rights reserved.",
     "links": []
   },
-  "whatsapp": "01775510351"
+  "whatsapp": "01775510351",
+  "configurations": [
+  
+  ]
 }

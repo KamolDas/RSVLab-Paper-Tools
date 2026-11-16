@@ -22,7 +22,7 @@ const SITE = {
   /* ── 2. HERO BUTTONS ─────────────────────────────────────
      Set to null to hide. */
   heroCtaPrimary:   { label: "Explore Research", href: "#research" },
-  heroCtaSecondary: { label: "View on GitHub",   href: "https://github.com/rsv8lab" },
+  heroCtaSecondary: { label: "View on GitHub",   href: "https://github.com/KamolDas" },
 
   /* ── 3. NOTICE BOARD ─────────────────────────────────────
      Set update or deadline to null to hide that pill.
@@ -52,7 +52,7 @@ const SITE = {
 
   /* ── 5. SOCIAL LINKS ─────────────────────────────────────
      Leave a field as "" to hide it everywhere. */
-  github:   "https://github.com/rsv8lab",
+  github:   "https://github.com/KamolDas",
   twitter:  "https://x.com/KDKamol",
   linkedin: "https://www.linkedin.com/in/kamol-das-7a4b0b1b7/",
   youtube:  "https://www.youtube.com/@RSVLab",
