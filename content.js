@@ -17,7 +17,7 @@ const SITE = {
   description: "A microbiology and bioinformatics research effort building open tools for antimicrobial susceptibility testing (AST) analysis, CLSI/EUCAST-aligned interpretation, and machine-learning-assisted AMR surveillance in Bangladesh.",
   founderName: "Kamol Das",
   year:        "2026",
-  logo:        "assets/images/rsvlab-logo.png",
+  logo:        "assets/images/logo.svg",
 
   /* ── 2. HERO BUTTONS ─────────────────────────────────────
      Set to null to hide. */
