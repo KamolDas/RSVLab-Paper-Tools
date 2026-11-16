@@ -1,1 +1,3 @@
-/*  /404.html  404
+# Cloudflare Pages redirects
+# Add 301/302 rules here as needed, e.g.:
+# /old-path  /new-path  301
