@@ -1,0 +1,157 @@
+{
+  "labName": "RSV Lab",
+  "shortName": "RSV Lab",
+  "tagline": "Research, systems, and open tools",
+  "description": "Machine Learning (ML) assisted Antimicrobial Resistance Surveillance & Data Science",
+  "founderName": "Kamol Das",
+  "year": "2026",
+  "domain": "https://kamol-das.pages.dev/",
+  "logo": "C:\\Users\\Kamol Das\\OneDrive\\Desktop\\RSV_Lab_All_S\\final-app\\lab-site-framework\\lab-site-framework\\presets\\assets\\logo.svg",
+  "theme": {
+    "accent": "#FF8C00",
+    "secondary": "#7614DC",
+    "link": "#1E90FF",
+    "dark": "#06283d",
+    "mode": "light"
+  },
+  "layout": {
+    "hero": "center",
+    "cards": "bordered",
+    "radius": "soft",
+    "width": "normal",
+    "background": "grid"
+  },
+  "hero": {
+    "titleMain": "Official Website",
+    "titleHighlight": "RSV Lab",
+    "badge": "RSV Lab · Hosting Institution",
+    "buttons": [
+      {
+        "label": "Explore",
+        "href": "#about"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact",
+        "style": "outline"
+      }
+    ]
+  },
+  "github": "rsv8lab",
+  "linkedin": "",
+  "twitter": "",
+  "youtube": "@RSVLab",
+  "orcid": "",
+  "scholar": "",
+  "researchgate": "",
+  "email": "rsv8lab@gmail.com",
+  "partner": null,
+  "sections": [
+    {
+      "id": "about",
+      "type": "cards",
+      "nav": "About",
+      "subtitle": "A microbiology and bioinformatics research effort building open tools for antimicrobial susceptibility testing (AST) analysis, CLSI/EUCAST-aligned interpretation, and machine-learning-assisted AMR surveillance in Bangladesh..",
+      "cards": [
+        {
+          "icon": "fa-flask",
+          "color": "accent",
+          "title": "First card",
+          "text": "One or two sentences."
+        },
+        {
+          "icon": "fa-brain",
+          "color": "secondary",
+          "title": "Second card",
+          "text": "One or two sentences."
+        },
+        {
+          "icon": "fa-code",
+          "color": "link",
+          "title": "Third card",
+          "text": "One or two sentences."
+        }
+      ],
+      "_open": true,
+      "title": "About"
+    },
+    {
+      "id": "papers",
+      "type": "list",
+      "nav": "Papers",
+      "title": "Papers & Preprints",
+      "subtitle": "Peer-reviewed articles, preprints, and technical reports.",
+      "items": [
+        {
+          "tag": "Preprint",
+          "title": "A Sample Research Paper",
+          "authors": "**Your Name**, Co-Author",
+          "meta": "Demonstration document · 2026",
+          "pdf": "assets/sample-paper.pdf",
+          "links": [
+            {
+              "label": "DOI",
+              "url": "https://doi.org/10.0000/example"
+            }
+          ]
+        },
+        {
+          "tag": "Journal",
+          "title": "Second example paper (replace with your own)",
+          "authors": "**Your Name** et al.",
+          "meta": "Journal Name, 2026",
+          "pdf": "assets/sample-paper.pdf"
+        }
+      ]
+    },
+    {
+      "id": "community",
+      "type": "community",
+      "nav": "Community",
+      "title": "Get Involved",
+      "subtitle": "RSV Lab",
+      "channels": [
+        {
+          "icon": "fa-brands fa-github",
+          "color": "link",
+          "title": "GitHub",
+          "text": "Code.",
+          "link": "https://github.com/rsv8lab",
+          "cta": "View"
+        },
+        {
+          "icon": "fa-brands fa-youtube",
+          "color": "link",
+          "title": "Youtube",
+          "text": "Tutorial.",
+          "link": "https://youtube.com/@RSVLab",
+          "cta": "View"
+        }
+      ],
+      "stats": [],
+      "contributors": [],
+      "_open": true
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "nav": "Contact",
+      "title": "Contact",
+      "subtitle": "Get in touch.",
+      "cards": [
+        {
+          "icon": "fa-envelope",
+          "color": "accent",
+          "title": "Email",
+          "text": "rsv8lab@gmail.com",
+          "href": "mailto:rsv8lab@gmail.com"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "copyright": "© 2026 My Lab. All rights reserved.",
+    "links": []
+  },
+  "whatsapp": "01775510351"
+}
