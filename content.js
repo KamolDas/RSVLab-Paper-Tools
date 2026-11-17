@@ -180,7 +180,7 @@ const SITE = {
         text:  "RSV Lab Advanced AST Analysis Tool (RSV_AST-vSKD) is a comprehensive, publication-ready desktop application designed for Antimicrobial Susceptibility Testing (AST) analysis, visualization, and machine learning in clinical microbiology...",
         link:  "https://doi.org/10.5281/zenodo.24323755",
         cta:   "View on Zenodo",
-        pdf:   "assets/pdfs/ast-tool-manual.pdf"
+        pdf:   "assets/pdfs/RSV_AST-vSKD_Setup_Login_guidelines.pdf"
       },
       {
         icon:  "fa-code",
