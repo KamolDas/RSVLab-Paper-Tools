@@ -173,6 +173,15 @@ const SITE = {
         link:  "https://github.com/KamolDas",
         cta:   "View on GitHub"
       },
+       {
+        icon:  "fa-book",
+        color: "var(--primary-purple)",
+        title: "RSV Lab AST Analysis Tool (RSV_AST-vSKD) - Setup & Distribution (v2.1.0)",
+        text:  "RSV Lab Advanced AST Analysis Tool (RSV_AST-vSKD) is a comprehensive, publication-ready desktop application designed for Antimicrobial Susceptibility Testing (AST) analysis, visualization, and machine learning in clinical microbiology...",
+        link:  "https://doi.org/10.5281/zenodo.24323755",
+        cta:   "View on Zenodo",
+        pdf:   "assets/pdfs/ast-tool-manual.pdf"
+      },
       {
         icon:  "fa-code",
         color: "var(--primary-blue)",
